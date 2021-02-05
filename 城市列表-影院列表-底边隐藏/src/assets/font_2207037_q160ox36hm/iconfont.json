@@ -1,0 +1,23 @@
+{
+  "id": "2207037",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18110479",
+      "name": "015-支付",
+      "font_class": "015-zhifu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18110480",
+      "name": "016-代理商",
+      "font_class": "016-dailishang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
