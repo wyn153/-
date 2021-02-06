@@ -73,6 +73,8 @@ export default {
     beforeMount() {},
     //页面渲染之后
      mounted() {
+     //  解决bug  vue是单页面，点击大城市的时候，页面比较多，跳转到另一个页面，滚动条还是原先的数
+      window.scroll(0,0)
     },
 
     //页面视图数据更新之前
