@@ -65,6 +65,7 @@ nav {
   height: 50px;
   line-height: 50px;
   border-bottom: 1px solid #ccc;
+  margin-top: 40px;
   ul {
     display: flex;
     text-align: center;
